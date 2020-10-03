@@ -1,4 +1,6 @@
 # Electron Governance
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falexman123898%2Fgovernance.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falexman123898%2Fgovernance?ref=badge_shield)
+
 
 The Electron governance system is comprised of Working Groups that oversee different aspects of the Electron ecosystem, and an Administrative working group that functions to resolve conflicts between them.
 
@@ -75,3 +77,6 @@ The Electron organization and all repos therein adhere to the following [Code of
 ## License
 
 Electron is licensed with an [MIT License](https://github.com/electron/electron/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falexman123898%2Fgovernance.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falexman123898%2Fgovernance?ref=badge_large)
